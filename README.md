@@ -2,7 +2,7 @@
 
 X_FireExtinguisher brings realistic fire safety to your FiveM server! Players can interact with fire extinguishers found throughout the map, equipping them to tackle in-game fires. With framework support for ESX and QBCore, customizable notifications, and a cooldown system to prevent abuse, this script adds an immersive layer of safety and realism to your server.
 
-**Key Functionality:**
+**:memo: Key Functionality:**
 - Realistic Interaction: Players can pick up extinguishers found throughout the game world.
 - Framework Support: Works seamlessly with ESX and QBCore.
 - Automatic Weapon Selection: Extinguisher is equipped immediately after pickup.
@@ -19,3 +19,7 @@ X_FireExtinguisher brings realistic fire safety to your FiveM server! Players ca
 3. Add ensure X_FireExtinguisher to your server.cfg.
 4. Configure settings in configuration/config.lua to match your server setup.
 5. Restart your server.
+
+
+Visit us on Discord: https://discord.gg/8MzHYRtKME
+Visit our Tebex Store: https://fiveworldshop.tebex.io/
