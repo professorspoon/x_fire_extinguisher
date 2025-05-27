@@ -1,5 +1,6 @@
 # x_fire_extinguisher [esx, qbcore, qbox]
-
+Visit us on Discord: https://discord.gg/8MzHYRtKME
+Visit our Tebex Store: https://fiveworldshop.tebex.io/
 ![x_fire_extinguisher](https://github.com/user-attachments/assets/366a3f41-d305-4e22-9010-1c405b8694eb)
 
 
