@@ -1,5 +1,8 @@
 # x_fire_extinguisher [esx, qbcore, qbox]
 
+![x_fire_extinguisher](https://github.com/user-attachments/assets/534e6285-baac-4d25-aed4-2238a3685b7e)
+
+
 X_FireExtinguisher brings realistic fire safety to your FiveM server! Players can interact with fire extinguishers found throughout the map, equipping them to tackle in-game fires. With framework support for ESX, QBCore and QBox, customizable notifications, and a cooldown system to prevent abuse, this script adds an immersive layer of safety and realism to your server.
 
 **:memo: Key Functionality:**
@@ -11,6 +14,12 @@ X_FireExtinguisher brings realistic fire safety to your FiveM server! Players ca
 - TextUI Integration: Supports various TextUI systems for prompts.
 - Multi-language Support: Supports multiple languages for broader accessibility.
 - Resmon peak 0.01ms: Minimal impact on server performance ensures smooth gameplay.
+
+![image](https://github.com/user-attachments/assets/aae0a7f3-058d-425b-9941-16dbd0dfd482)
+![image](https://github.com/user-attachments/assets/bb3b395d-0687-4884-b20f-a26b85e5beef)
+![image](https://github.com/user-attachments/assets/158d7a63-234a-4c22-b27a-e93cecc7d8b7)
+![image](https://github.com/user-attachments/assets/e50af50b-36a6-4d40-9a90-1d0aed40e888)
+
 
 
 **:wrench: Installation**
